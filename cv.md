@@ -11,6 +11,7 @@
 `Contacts:`
 
 - Tel: _**+380972273341**_
+- Viber: _**+380504008203**_
 - Email: _**farikmaxx@gmail.com**_
 - Telegram: _**[@farikmax](https://t.me/farikmax)**_
 - Linkedin: _**[Maksym Farasiuk](https://www.linkedin.com/in/maksym-farasiuk-48520b186/)**_
@@ -21,8 +22,8 @@
 
 `About me:`
 
-My dream and purpose - be a IT developer
-Get the most experience and skills for further advancement in the IT field
+My dream and purpose - be a IT developer.
+Get the most experience and skills for further advancement in the IT field.
 
 `Skills:`
 
