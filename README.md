@@ -1,1 +1,1 @@
-https://github.com/farikmax/rsschool-cv/cv
+https://farikmax.github.io/rsschool-cv/cv
