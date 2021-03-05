@@ -21,6 +21,9 @@ a {
 .container__line {
   margin: 0;
   margin: 40px 0 40px 0;
+  &--end {
+    margin-bottom: 0;
+  }
 }
 
 .section-title {
