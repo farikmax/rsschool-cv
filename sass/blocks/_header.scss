@@ -8,7 +8,7 @@
     position: relative;
     margin: 0;
     width: 200px;
-    @include padding-hack(18%, cover);
+    @include padding-hack(22%, cover);
     margin-right: 30px;
   }
   &__title {
