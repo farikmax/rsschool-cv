@@ -5,8 +5,9 @@
     align-items: flex-end;
   }
   .img__wrapper {
+    position: relative;
+    margin: 0;
     width: 200px;
-    height: 200px;
     @include padding-hack(18%, cover);
     margin-right: 30px;
   }
